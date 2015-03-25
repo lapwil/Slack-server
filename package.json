@@ -1,0 +1,24 @@
+{
+  "name": "Slack-web",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.12.3",
+    "body-parser": "^1.x.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lapwil/Slack-server.git"
+  },
+  "author": "lapwil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lapwil/Slack-server/issues"
+  },
+  "homepage": "https://github.com/lapwil/Slack-server"
+}
