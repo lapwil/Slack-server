@@ -4,8 +4,9 @@
   "description": "none",
   "main": "index.js",
   "dependencies": {
+    "body-parser": "^1.x.x",
     "express": "^4.12.3",
-    "body-parser": "^1.x.x"
+    "xmlhttprequest": "^1.8.0"
   },
   "devDependencies": {},
   "scripts": {
